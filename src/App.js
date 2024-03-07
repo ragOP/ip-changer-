@@ -28,7 +28,7 @@ var token ="03b8ea24664ece"
       {location ? (
         <div>
           {location === 'Delhi' ? (
-            <h1>Hello Delhi</h1>
+            <h1>Hello {location}</h1>
           ) : (
             <h1>Hello Bengal</h1>
           )}
